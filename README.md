@@ -14,9 +14,3 @@ execute `python3 RRTStarFN_Dynamic.py`
 4. cd into scripts
 5. execute `python3 controller.py`
 6. to plot robot path, execute `python3 plot_robot_trajectory.py`
-
-Team:
-Sri Sai Charan Velisetti 117509755)
-Nitesh Jha(117525366)
-
-
