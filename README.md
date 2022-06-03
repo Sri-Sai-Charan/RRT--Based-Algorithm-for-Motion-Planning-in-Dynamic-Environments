@@ -22,11 +22,6 @@ execute `python3 RRTStarFN_Dynamic.py`
  ┃ ┗ 📜demo.launch
  ┣ 📂scripts
  ┃ ┣ 📂__pycache__
- ┃ ┃ ┣ 📜AStar.cpython-38.pyc
- ┃ ┃ ┣ 📜Config.cpython-38.pyc
- ┃ ┃ ┣ 📜RRTStarFN.cpython-38.pyc
- ┃ ┃ ┣ 📜bidirectionalRRTStarFND.cpython-38.pyc
- ┃ ┃ ┗ 📜utils.cpython-38.pyc
  ┃ ┣ 📜Config.py
  ┃ ┣ 📜RRTStarFN.py
  ┃ ┣ 📜RRTStarFN_Dynamic.py
